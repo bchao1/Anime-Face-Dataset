@@ -11,4 +11,5 @@ Some outliers are still present in the dataset:
 - Weird men/monster faces
 
 Feel free to contribute to this dataset by adding similar-quality images or add image labels.
-## Example 
+## Samples 
+![sample images](./sample.png)
