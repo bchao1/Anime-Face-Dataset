@@ -1,8 +1,9 @@
 import cv2
 import sys
+import os
 import os.path
 
-def detect(filename, cascade_file = "./lbpcascade_animeface.xml"):
+def detect(filename, outname, cascade_file = "./lbpcascade_animeface.xml"):
     if not os.path.isfile(cascade_file):
         raise RuntimeError("%s: not found" % cascade_file)
 
@@ -19,10 +20,12 @@ def detect(filename, cascade_file = "./lbpcascade_animeface.xml"):
     if len(faces) > 0:
         x, y, w, h = faces[0]
         print(x, y, w, h)
-        cv2.imwrite("test.jpg", image[int(y-0.1*h): int(y+0.9*h), x: x+w])
+        cv2.imwrite(outname, image[int(y-0.1*h): int(y+0.9*h), x: x+w])
 
-if len(sys.argv) != 2:
-    sys.stderr.write("usage: detect.py <filename>\n")
-    sys.exit(-1)
-    
-detect(sys.argv[1])
+ct = 0
+for y in range(2012, 2020):
+     img_dir = './images/' + str(y)
+     files = os.listdir(img_dir)
+     for f in files:
+         detect(os.path.join(img_dir, f), './cropped/{}.jpg'.format(ct))
+         ct += 1
