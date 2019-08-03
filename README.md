@@ -1,7 +1,7 @@
 # Anime-Face-Dataset
 The datasets can be found here: 
 1. **Version 1**, 21551 images, more outliers: https://drive.google.com/file/d/1jdJXkQIWVGOeb0XJIXE3YuZQeiEPd8rM/view?usp=sharing.
-2. **Version 2**, 20921 images, higher quality: https://drive.google.com/file/d/1qXTXNhYlucegbBKWZ77vMFlPTR83Wft7/view?usp=sharing
+2. **Version 2**, 20921 images, higher quality: https://drive.google.com/file/d/1OfGKzuNt_vRUBUgAMsE2w0xNtD5DOjmW/view?usp=sharing
 
 ## Disclaimer
 This dataset should only be used for educational purposes.
