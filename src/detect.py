@@ -20,20 +20,19 @@ def detect(filename, outname, cascade_file = "./lbpcascade_animeface.xml"):
                                      minSize = (24, 24))
     if len(faces) > 0:
         x, y, w, h = faces[0]
-        print(x, y, w, h)
+        #print(x, y, w, h)
         cv2.imwrite(outname, image[int(y-0.1*h): int(y+0.9*h), x: x+w])
         return True
     else:
         return False
 
 ct = 0
-if os.path.exists('cropped'):
-    shutil.rmtree('cropped')
 os.mkdir('cropped')
-for y in range(2012, 2020):
-     img_dir = './images/' + str(y)
-     files = os.listdir(img_dir)
-     for f in files:
-         if detect(os.path.join(img_dir, f), './cropped/{}.jpg'.format(ct)):
+
+for y in range(2000, 2020):
+    img_dir = './images/' + str(y)
+    files = os.listdir(img_dir)
+    for f in files:
+        if detect(os.path.join(img_dir, f), './cropped/{}_{}.jpg'.format(ct, y)):
             ct += 1
             print(ct)
