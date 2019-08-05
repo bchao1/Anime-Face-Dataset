@@ -1,6 +1,11 @@
 # Anime-Face-Dataset
 The dataset can be found here: 
 https://drive.google.com/file/d/1HG7YnakUkjaxtNMclbl2t5sJwGLcHYsI/view?usp=sharing
+
+## Samples 
+<p align="center">
+    <img src="./sample.png" width="600">
+</p>
 ## Disclaimer
 This dataset should only be used for educational purposes.
 
@@ -29,5 +34,3 @@ python3 detect.py
 ```
 The scraped images will be in the `/src/images` folder, while the cropped images (character faces) will be in the `/src/cropped` folder.
 
-## Samples 
-![sample images](./sample.png)
