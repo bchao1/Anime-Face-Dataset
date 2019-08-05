@@ -4,8 +4,9 @@ https://drive.google.com/file/d/1HG7YnakUkjaxtNMclbl2t5sJwGLcHYsI/view?usp=shari
 
 ## Samples 
 <p align="center">
-    <img src="./sample.png" width="600">
+    <img src="./test.jpg" width="600">
 </p>
+
 ## Disclaimer
 This dataset should only be used for educational purposes.
 
