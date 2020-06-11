@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1HG7YnakUkjaxtNMclbl2t5sJwGLcHYsI/view?usp=shari
 </p>
 
 ## Disclaimer
-This dataset should only be used for educational purposes.
+This dataset should only be used for educational purposes. Please cite me or this repo if you use this dataset in your projects, research papers, and etc.
 
 ## Author 
 Mckinsey666
