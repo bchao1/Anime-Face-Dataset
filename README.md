@@ -37,4 +37,14 @@ The scraped images will be in the `/src/images` folder, while the cropped images
 
 ## Citing Anime Face Dataset
 
+If you find this dataset helpful, I would appreciate if you cite it:
+
+```
+@online{chao2019/online,
+  author       = {Brian Chao},
+  title        = {Anime Face Dataset: a collection of high-quality anime faces.},
+  date         = {2019-09-16},
+  year         = {2019}
+}
+```
 
