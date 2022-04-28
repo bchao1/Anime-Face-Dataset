@@ -44,7 +44,8 @@ If you find this dataset helpful, I would appreciate if you cite it:
   author       = {Brian Chao},
   title        = {Anime Face Dataset: a collection of high-quality anime faces.},
   date         = {2019-09-16},
-  year         = {2019}
+  year         = {2019},
+  url          = {https://github.com/bchao1/Anime-Face-Dataset}
 }
 ```
 
