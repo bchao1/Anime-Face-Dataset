@@ -11,7 +11,7 @@ https://drive.google.com/file/d/1HG7YnakUkjaxtNMclbl2t5sJwGLcHYsI/view?usp=shari
 This dataset should only be used for educational purposes. Please cite me or this repo if you use this dataset in your projects, research papers, and etc.
 
 ## Author 
-Mckinsey666
+Brian Chao
 
 ## Dataset Description
 This is an dataset consisting of 63632 high-quality anime faces scraped from www.getchu.com, which are then cropped using the anime face detection algorithm in https://github.com/nagadomi/lbpcascade_animeface. Images sizes vary from 90 * 90 ~ 120 * 120 (you can simply rescale them before using them).
@@ -34,4 +34,7 @@ python3 scrape.py
 python3 detect.py
 ```
 The scraped images will be in the `/src/images` folder, while the cropped images (character faces) will be in the `/src/cropped` folder.
+
+## Citing Anime Face Dataset
+
 
