@@ -1,5 +1,5 @@
 # Anime-Face-Dataset
-The dataset can be found [here](https://drive.google.com/file/d/1HG7YnakUkjaxtNMclbl2t5sJwGLcHYsI/view?usp=sharing).
+The dataset can be found [here](https://drive.google.com/file/d/1HG7YnakUkjaxtNMclbl2t5sJwGLcHYsI/view?usp=sharing). Also checkout [this repository](https://github.com/bchao1/Anime-Generation) for anime generation using generative adversarial networks.
 
 ## Samples 
 <p align="center">
