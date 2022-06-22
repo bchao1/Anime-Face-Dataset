@@ -7,7 +7,7 @@ The dataset can be found [here](https://drive.google.com/file/d/1HG7YnakUkjaxtNM
 </p>
 
 ## Disclaimer
-This dataset should only be used for educational purposes. Please cite me or this repo if you use this dataset in your projects, research papers, and etc.
+This dataset should only be used for educational purposes. Please cite the source if you use this dataset in your projects, research papers, and etc. Also I'd appreciate if you give this repo a star!
 
 ## Author 
 Brian Chao
