@@ -9,7 +9,7 @@ The dataset can be found [here](https://drive.google.com/file/d/1HG7YnakUkjaxtNM
 ## Disclaimer
 This dataset should only be used for educational purposes. Please cite the source if you use this dataset in your projects, research papers, and etc. Consider starring this repo if you find it useful!
    
-One user has uploaded this dataset to [Kaggle]. If you're downloading the dataset from the Kaggle source, I would appreciate if you also cite this repository.   
+One user has uploaded this dataset to [Kaggle](https://www.kaggle.com/datasets/splcher/animefacedataset). If you're downloading the dataset from the Kaggle source, I would appreciate if you also cite this repository.   
 
 ## Author 
 Brian Chao
