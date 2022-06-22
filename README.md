@@ -7,7 +7,9 @@ The dataset can be found [here](https://drive.google.com/file/d/1HG7YnakUkjaxtNM
 </p>
 
 ## Disclaimer
-This dataset should only be used for educational purposes. Please cite the source if you use this dataset in your projects, research papers, and etc. Also I'd appreciate if you give this repo a star!
+This dataset should only be used for educational purposes. Please cite the source if you use this dataset in your projects, research papers, and etc. Consider starring this repo if you find it useful!
+   
+One user has uploaded this dataset to [Kaggle]. If you're downloading the dataset from the Kaggle source, I would appreciate if you also cite this repository.   
 
 ## Author 
 Brian Chao
@@ -32,7 +34,7 @@ cd Anime-Face-Dataset/src
 python3 scrape.py
 python3 detect.py
 ```
-The scraped images will be in the `/src/images` folder, while the cropped images (character faces) will be in the `/src/cropped` folder.
+The scraped images will be in the `./src/images` folder, while the cropped images (character faces) will be in the `./src/cropped` folder.
 
 ## Citing Anime Face Dataset
 
