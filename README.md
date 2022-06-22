@@ -29,7 +29,7 @@ Feel free to contribute to this dataset by adding images of similar quality or a
 ## Source Code
 I made the web-scraping and face-detection code open-source. Make modifications as you wish. To scrape the pictures directly from the website and detect the faces on your own, type the following commands:
 ```
-git clone https://github.com/Mckinsey666/Anime-Face-Dataset.git
+git clone https://github.com/bchao1/Anime-Face-Dataset.git
 cd Anime-Face-Dataset/src
 python3 scrape.py
 python3 detect.py
