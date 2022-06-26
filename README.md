@@ -1,6 +1,9 @@
 # Anime Face Dataset
 The dataset can be found [here](https://drive.google.com/file/d/1HG7YnakUkjaxtNMclbl2t5sJwGLcHYsI/view?usp=sharing). Also checkout [this repository](https://github.com/bchao1/Anime-Generation) for anime generation using generative adversarial networks.
 
+### 2022/6/26 update
+Due to copyright issues, I have made the dataset private. You can still use the scripts in this repo to scrape the dataset yourself, but use at you own discretion. I am also working on new version of this dataset, but I will only publish scraping and post-processing scripts since I cannot distribute the images. Stay tuned!
+
 ## Samples 
 <p align="center">
     <img src="./test.jpg" width="600">
